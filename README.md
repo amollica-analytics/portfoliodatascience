@@ -2,7 +2,7 @@
 
 I'm a Data Analytics student and NCAA hockey player with a strong interest in sports analytics, machine learning, and optimization modeling. I enjoy using data to solve real-world problems, especially in sports and performance analysis.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages**: Python, SQL, R, Java, Excel
 - **Python Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, XGBoost
 - **Data Skills**: Data cleaning, EDA, feature engineering, statistical analysis, machine learning
